@@ -1,5 +1,4 @@
 # editors
-.vscode/*
 !/.vscode/env_template.txt
 !/.vscode/env.web_template.txt
 !/.vscode/launch.json
@@ -30,7 +29,6 @@ backend/onyx/evals/one_off/*.json
 *.csv
 
 # secret files
-.env
 jira_test_env
 settings.json
 
@@ -59,3 +57,4 @@ node_modules
 
 # plans
 plans/
+config.bat
